@@ -1,0 +1,15 @@
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio26\Exercicio26\bin\Debug\net5.0\Exercicio26.exe
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio26\Exercicio26\bin\Debug\net5.0\Exercicio26.deps.json
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio26\Exercicio26\bin\Debug\net5.0\Exercicio26.runtimeconfig.json
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio26\Exercicio26\bin\Debug\net5.0\Exercicio26.runtimeconfig.dev.json
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio26\Exercicio26\bin\Debug\net5.0\Exercicio26.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio26\Exercicio26\bin\Debug\net5.0\ref\Exercicio26.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio26\Exercicio26\bin\Debug\net5.0\Exercicio26.pdb
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio26\Exercicio26\obj\Debug\net5.0\Exercicio26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio26\Exercicio26\obj\Debug\net5.0\Exercicio26.AssemblyInfoInputs.cache
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio26\Exercicio26\obj\Debug\net5.0\Exercicio26.AssemblyInfo.cs
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio26\Exercicio26\obj\Debug\net5.0\Exercicio26.csproj.CoreCompileInputs.cache
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio26\Exercicio26\obj\Debug\net5.0\Exercicio26.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio26\Exercicio26\obj\Debug\net5.0\ref\Exercicio26.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio26\Exercicio26\obj\Debug\net5.0\Exercicio26.pdb
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio26\Exercicio26\obj\Debug\net5.0\Exercicio26.genruntimeconfig.cache

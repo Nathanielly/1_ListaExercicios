@@ -1,0 +1,16 @@
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio37\Exercicio37\obj\Debug\net5.0\Exercicio37.csproj.AssemblyReference.cache
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio37\Exercicio37\obj\Debug\net5.0\Exercicio37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio37\Exercicio37\obj\Debug\net5.0\Exercicio37.AssemblyInfoInputs.cache
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio37\Exercicio37\obj\Debug\net5.0\Exercicio37.AssemblyInfo.cs
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio37\Exercicio37\obj\Debug\net5.0\Exercicio37.csproj.CoreCompileInputs.cache
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio37\Exercicio37\bin\Debug\net5.0\Exercicio37.exe
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio37\Exercicio37\bin\Debug\net5.0\Exercicio37.deps.json
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio37\Exercicio37\bin\Debug\net5.0\Exercicio37.runtimeconfig.json
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio37\Exercicio37\bin\Debug\net5.0\Exercicio37.runtimeconfig.dev.json
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio37\Exercicio37\bin\Debug\net5.0\Exercicio37.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio37\Exercicio37\bin\Debug\net5.0\ref\Exercicio37.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio37\Exercicio37\bin\Debug\net5.0\Exercicio37.pdb
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio37\Exercicio37\obj\Debug\net5.0\Exercicio37.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio37\Exercicio37\obj\Debug\net5.0\ref\Exercicio37.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio37\Exercicio37\obj\Debug\net5.0\Exercicio37.pdb
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio37\Exercicio37\obj\Debug\net5.0\Exercicio37.genruntimeconfig.cache

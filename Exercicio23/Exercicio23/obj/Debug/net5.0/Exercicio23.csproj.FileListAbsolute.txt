@@ -1,0 +1,15 @@
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio23\Exercicio23\obj\Debug\net5.0\Exercicio23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio23\Exercicio23\obj\Debug\net5.0\Exercicio23.AssemblyInfoInputs.cache
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio23\Exercicio23\obj\Debug\net5.0\Exercicio23.AssemblyInfo.cs
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio23\Exercicio23\obj\Debug\net5.0\Exercicio23.csproj.CoreCompileInputs.cache
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio23\Exercicio23\bin\Debug\net5.0\Exercicio23.exe
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio23\Exercicio23\bin\Debug\net5.0\Exercicio23.deps.json
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio23\Exercicio23\bin\Debug\net5.0\Exercicio23.runtimeconfig.json
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio23\Exercicio23\bin\Debug\net5.0\Exercicio23.runtimeconfig.dev.json
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio23\Exercicio23\bin\Debug\net5.0\Exercicio23.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio23\Exercicio23\bin\Debug\net5.0\ref\Exercicio23.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio23\Exercicio23\bin\Debug\net5.0\Exercicio23.pdb
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio23\Exercicio23\obj\Debug\net5.0\Exercicio23.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio23\Exercicio23\obj\Debug\net5.0\ref\Exercicio23.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio23\Exercicio23\obj\Debug\net5.0\Exercicio23.pdb
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio23\Exercicio23\obj\Debug\net5.0\Exercicio23.genruntimeconfig.cache

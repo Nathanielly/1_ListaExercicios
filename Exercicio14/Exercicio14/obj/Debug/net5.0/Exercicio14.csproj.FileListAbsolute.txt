@@ -1,0 +1,16 @@
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio14\Exercicio14\obj\Debug\net5.0\Exercicio14.csproj.AssemblyReference.cache
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio14\Exercicio14\obj\Debug\net5.0\Exercicio14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio14\Exercicio14\obj\Debug\net5.0\Exercicio14.AssemblyInfoInputs.cache
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio14\Exercicio14\obj\Debug\net5.0\Exercicio14.AssemblyInfo.cs
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio14\Exercicio14\obj\Debug\net5.0\Exercicio14.csproj.CoreCompileInputs.cache
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio14\Exercicio14\bin\Debug\net5.0\Exercicio14.exe
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio14\Exercicio14\bin\Debug\net5.0\Exercicio14.deps.json
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio14\Exercicio14\bin\Debug\net5.0\Exercicio14.runtimeconfig.json
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio14\Exercicio14\bin\Debug\net5.0\Exercicio14.runtimeconfig.dev.json
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio14\Exercicio14\bin\Debug\net5.0\Exercicio14.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio14\Exercicio14\bin\Debug\net5.0\ref\Exercicio14.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio14\Exercicio14\bin\Debug\net5.0\Exercicio14.pdb
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio14\Exercicio14\obj\Debug\net5.0\Exercicio14.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio14\Exercicio14\obj\Debug\net5.0\ref\Exercicio14.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio14\Exercicio14\obj\Debug\net5.0\Exercicio14.pdb
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio14\Exercicio14\obj\Debug\net5.0\Exercicio14.genruntimeconfig.cache

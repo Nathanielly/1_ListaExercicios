@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Exercicio33</id>
+    <version>1.0.0</version>
+    <authors>Exercicio33</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio33\Exercicio33\bin\Debug\net5.0\Exercicio33.runtimeconfig.json" target="lib\net5.0\Exercicio33.runtimeconfig.json" />
+    <file src="C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio33\Exercicio33\bin\Debug\net5.0\Exercicio33.dll" target="lib\net5.0\Exercicio33.dll" />
+  </files>
+</package>
