@@ -6,7 +6,9 @@ namespace Exercicio31
     {
         static void Main(string[] args)
         {
-            
+            Exercicio31 resultado = new Exercicio31();
+            resultado.ordemCrescente();
+
         }
     }
 }

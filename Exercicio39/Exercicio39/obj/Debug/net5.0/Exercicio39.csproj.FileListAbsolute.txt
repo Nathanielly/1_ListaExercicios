@@ -14,3 +14,19 @@ C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio39\Exercicio39\obj\Debug\n
 C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio39\Exercicio39\obj\Debug\net5.0\ref\Exercicio39.dll
 C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio39\Exercicio39\obj\Debug\net5.0\Exercicio39.pdb
 C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio39\Exercicio39\obj\Debug\net5.0\Exercicio39.genruntimeconfig.cache
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio39\Exercicio39\obj\Debug\net5.0\Exercicio39.csproj.AssemblyReference.cache
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio39\Exercicio39\obj\Debug\net5.0\Exercicio39.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio39\Exercicio39\obj\Debug\net5.0\Exercicio39.AssemblyInfoInputs.cache
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio39\Exercicio39\obj\Debug\net5.0\Exercicio39.AssemblyInfo.cs
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio39\Exercicio39\obj\Debug\net5.0\Exercicio39.csproj.CoreCompileInputs.cache
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio39\Exercicio39\obj\Debug\net5.0\Exercicio39.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio39\Exercicio39\obj\Debug\net5.0\ref\Exercicio39.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio39\Exercicio39\obj\Debug\net5.0\Exercicio39.pdb
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio39\Exercicio39\bin\Debug\net5.0\Exercicio39.exe
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio39\Exercicio39\bin\Debug\net5.0\Exercicio39.deps.json
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio39\Exercicio39\bin\Debug\net5.0\Exercicio39.runtimeconfig.json
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio39\Exercicio39\bin\Debug\net5.0\Exercicio39.runtimeconfig.dev.json
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio39\Exercicio39\bin\Debug\net5.0\Exercicio39.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio39\Exercicio39\bin\Debug\net5.0\ref\Exercicio39.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio39\Exercicio39\bin\Debug\net5.0\Exercicio39.pdb
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio39\Exercicio39\obj\Debug\net5.0\Exercicio39.genruntimeconfig.cache

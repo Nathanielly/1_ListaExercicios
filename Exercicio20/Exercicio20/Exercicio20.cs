@@ -64,14 +64,16 @@ namespace Exercicio20
         public void QuantidadeVeiculo(List<Entidades.InformacoesVeiculo> Veiculos)
         {
             int TotalVeiculos = Veiculos.Count(), QuantidadeMenor2000 = 0;
-            
+            decimal totalDesconto = 0, totalPagar = 0;
             
 
             foreach (var veiculo in Veiculos)
             {
-                if (veiculo.anoVeiculo < 2000) ;
+                if (veiculo.anoVeiculo < 2000) 
                      QuantidadeMenor2000++;
 
+                totalDesconto += veiculo.valorVeiculo - veiculo.valorDesconto;
+                totalPagar += veiculo.valorPagar;
             }
 
             ExibirResultadoCliente(TotalVeiculos, QuantidadeMenor2000);
@@ -81,7 +83,7 @@ namespace Exercicio20
 
         public void ExibirResultadoCliente(int TotalVeiculos, int QuantidadeMenor2000)
         {
-            Console.WriteLine("O desconto foi de " + ValorDesconto + "O total a pagar é de " + ValorPagar);
+            Console.WriteLine("\nO desconto foi de " + ValorDesconto + " O total a pagar é de " + ValorPagar);
             Console.WriteLine("O total de veículos é " + TotalVeiculos + ", e o total de veiculos abaixo do ano 2000 é igual a: " + QuantidadeMenor2000);
         }
 

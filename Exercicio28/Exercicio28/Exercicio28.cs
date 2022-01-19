@@ -10,50 +10,57 @@ namespace Exercicio28
     {
         public void ReajusteSalarial()
         {
-            var funcionarios = new List<Entidades.Funcionario>();
+            string nome;
+            decimal salario, somaSalario = 0, salarioReajustado = 0, reajuste, salarioMin;
+            
+            int i;
 
-            Console.WriteLine("Informe o nome do funcionário: ");
-            string nome = Console.ReadLine();
-
-            Console.WriteLine("Informe o salário: ");
-            decimal salario = decimal.Parse(Console.ReadLine());
-
-            var funcionario = new Entidades.Funcionario();
-            funcionario.nome = nome;
-            funcionario.salario = salario;
-            funcionarios.Add(funcionario);
-
-            Calculo(salario, nome);
-
-        }
-        public void Calculo(decimal salario, string nome)
-        {
-            //salario minimo = 1210.00
-
-            decimal salarioMinimo = salario / 1210m;
-            decimal salarioReajustado = 0;
-
-            if (salarioMinimo < 3)
+            for (i = 0; i < 3; i++)
             {
-                salarioReajustado = salario * 1.50m;
+                Console.WriteLine("Informe o nome do funcionário: ");
+                nome = Console.ReadLine();
+
+                Console.WriteLine("Informe o salário minimo da empresa: ");
+                salarioMin = decimal.Parse(Console.ReadLine());
+
+
+                Console.WriteLine("Informe o salário: ");
+                salario = decimal.Parse(Console.ReadLine());
                 
-            }
-            else if (salarioMinimo > 3 || salarioMinimo < 10)
-            {
-                salarioReajustado = salario * 1.20m;
-            }
-            else if (salarioMinimo > 10 || salarioMinimo < 20)
-            {
-                salarioReajustado = salario * 1.20m;
-            }
-            else if (salarioMinimo > 20)
-            {
-                salarioReajustado = salario * 1.10m;
+
+
+                decimal salarioMinimo = salario / salarioMin;
+
+                if (salarioMinimo < 3)
+                {
+                    salarioReajustado = salario * 1.50m;
+
+                }
+                else if (salarioMinimo > 3 || salarioMinimo < 10)
+                {
+                    salarioReajustado = salario * 1.20m;
+                }
+                else if (salarioMinimo > 10 || salarioMinimo < 20)
+                {
+                    salarioReajustado = salario * 1.20m;
+                }
+                else if (salarioMinimo > 20)
+                {
+                    salarioReajustado = salario * 1.10m;
+                }
+
+                
+
             }
 
-            Console.WriteLine("O funcionário " + nome + " (,receberá o reajuste de) e seu novo salário será de R$ " + salarioReajustado );
+            
 
         }
+
+
+          
+
+        
 
 
     }

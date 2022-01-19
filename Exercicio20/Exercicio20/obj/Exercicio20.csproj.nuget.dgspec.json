@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nathanielly\\Desktop\\Rumo Academy\\C#\\Exercicio20\\Exercicio20\\Exercicio20.csproj": {}
+    "C:\\Users\\Nathanielly\\Desktop\\Rumo Academy\\C#\\01_Lista de exercicios\\Exercicio20\\Exercicio20\\Exercicio20.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nathanielly\\Desktop\\Rumo Academy\\C#\\Exercicio20\\Exercicio20\\Exercicio20.csproj": {
+    "C:\\Users\\Nathanielly\\Desktop\\Rumo Academy\\C#\\01_Lista de exercicios\\Exercicio20\\Exercicio20\\Exercicio20.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nathanielly\\Desktop\\Rumo Academy\\C#\\Exercicio20\\Exercicio20\\Exercicio20.csproj",
+        "projectUniqueName": "C:\\Users\\Nathanielly\\Desktop\\Rumo Academy\\C#\\01_Lista de exercicios\\Exercicio20\\Exercicio20\\Exercicio20.csproj",
         "projectName": "Exercicio20",
-        "projectPath": "C:\\Users\\Nathanielly\\Desktop\\Rumo Academy\\C#\\Exercicio20\\Exercicio20\\Exercicio20.csproj",
+        "projectPath": "C:\\Users\\Nathanielly\\Desktop\\Rumo Academy\\C#\\01_Lista de exercicios\\Exercicio20\\Exercicio20\\Exercicio20.csproj",
         "packagesPath": "C:\\Users\\Nathanielly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nathanielly\\Desktop\\Rumo Academy\\C#\\Exercicio20\\Exercicio20\\obj\\",
+        "outputPath": "C:\\Users\\Nathanielly\\Desktop\\Rumo Academy\\C#\\01_Lista de exercicios\\Exercicio20\\Exercicio20\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nathanielly\\AppData\\Roaming\\NuGet\\NuGet.Config",

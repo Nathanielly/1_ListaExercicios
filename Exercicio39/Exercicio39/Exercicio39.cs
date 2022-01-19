@@ -8,12 +8,12 @@ namespace Exercicio39
 {
     public class Exercicio39
     {
-        public void ClassificacaoFinal(decimal NotaFinal)
+        public void ClassificacaoFinal()
         {
 
             Console.WriteLine("Informe a matrícula do aluno: ");
             int matricula = int.Parse(Console.ReadLine());
-
+            
             Console.WriteLine("Informe o nome do aluno: ");
             string Nome = Console.ReadLine();
 
@@ -26,39 +26,45 @@ namespace Exercicio39
             Console.WriteLine("Informe a nota do exame final: ");
             decimal notaExameFinal = Convert.ToDecimal(Console.ReadLine());
 
-            CalculoNotas(notaLab, notaAvSemestre, notaExameFinal);
+            decimal NotaFinal = CalculoNotas(notaLab, notaAvSemestre, notaExameFinal);
 
             string classificacao;
 
-            if (NotaFinal > 8 || NotaFinal < 10)
+            
+
+
+
+            if (NotaFinal >= 8 && NotaFinal <= 10)
             {
                 classificacao = "A";
             }
 
-            else if (NotaFinal > 7 || NotaFinal < 8)
+            else if (NotaFinal >= 7 && NotaFinal <= 8)
             {
                 classificacao = "B";
             }
 
-            else if (NotaFinal > 6 || NotaFinal < 7)
+            else if (NotaFinal >= 6 && NotaFinal <= 7)
             {
                 classificacao = "C";
             }
 
-            else if (NotaFinal > 5 || NotaFinal < 6)
+            else if (NotaFinal >= 5 && NotaFinal <= 6)
             {
                 classificacao = "D";
             }
 
-            else if (NotaFinal > 0 || NotaFinal < 5)
+            else
             {
                 classificacao = "R";
             }
+            
+                
+            
 
             Console.WriteLine(" A classificação do aluno " + Nome + ", com a matricula " + matricula + " alcançou a nota final "
                 + NotaFinal + " e obteve a classificação " + classificacao);
-
-
+            
 
         }
 

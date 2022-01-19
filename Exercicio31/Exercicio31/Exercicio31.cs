@@ -10,17 +10,27 @@ namespace Exercicio31
     {
         public void ordemCrescente()
         {
-            
+            int numero = 0;
 
-            Console.WriteLine("Informe os valores: ");
-            int n1 = Convert.ToInt32(Console.ReadLine());
-            int n2 = Convert.ToInt32(Console.ReadLine());
-            int n3 = Convert.ToInt32(Console.ReadLine());
+            List<int> ordemCrescente = new List<int>();
 
+            while (numero <= 2)
+            {
+                Console.WriteLine("Informe quais são os números: ");
+                ordemCrescente.Add(int.Parse(Console.ReadLine()));
+                numero++;
 
+            }
 
+            ordemCrescente.Sort();
 
-            Array.Sort();
+            Console.WriteLine("Os números em ordem crescente são: ");
+
+            foreach( int num in ordemCrescente)
+            {
+                Console.WriteLine(num);
+
+            }
 
 
 

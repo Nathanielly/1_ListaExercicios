@@ -6,7 +6,8 @@ namespace Exercicio27
     {
         static void Main(string[] args)
         {
-            
+            Exercicio27 resultado = new Exercicio27();
+            resultado.Carango();
 
 
         }

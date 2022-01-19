@@ -14,3 +14,19 @@ C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio20\Exercicio20\obj\Debug\n
 C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio20\Exercicio20\obj\Debug\net5.0\ref\Exercicio20.dll
 C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio20\Exercicio20\obj\Debug\net5.0\Exercicio20.pdb
 C:\Users\Nathanielly\Desktop\Rumo Academy\C#\Exercicio20\Exercicio20\obj\Debug\net5.0\Exercicio20.genruntimeconfig.cache
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio20\Exercicio20\bin\Debug\net5.0\Exercicio20.exe
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio20\Exercicio20\bin\Debug\net5.0\Exercicio20.deps.json
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio20\Exercicio20\bin\Debug\net5.0\Exercicio20.runtimeconfig.json
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio20\Exercicio20\bin\Debug\net5.0\Exercicio20.runtimeconfig.dev.json
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio20\Exercicio20\bin\Debug\net5.0\Exercicio20.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio20\Exercicio20\bin\Debug\net5.0\ref\Exercicio20.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio20\Exercicio20\bin\Debug\net5.0\Exercicio20.pdb
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio20\Exercicio20\obj\Debug\net5.0\Exercicio20.csproj.AssemblyReference.cache
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio20\Exercicio20\obj\Debug\net5.0\Exercicio20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio20\Exercicio20\obj\Debug\net5.0\Exercicio20.AssemblyInfoInputs.cache
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio20\Exercicio20\obj\Debug\net5.0\Exercicio20.AssemblyInfo.cs
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio20\Exercicio20\obj\Debug\net5.0\Exercicio20.csproj.CoreCompileInputs.cache
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio20\Exercicio20\obj\Debug\net5.0\Exercicio20.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio20\Exercicio20\obj\Debug\net5.0\ref\Exercicio20.dll
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio20\Exercicio20\obj\Debug\net5.0\Exercicio20.pdb
+C:\Users\Nathanielly\Desktop\Rumo Academy\C#\01_Lista de exercicios\Exercicio20\Exercicio20\obj\Debug\net5.0\Exercicio20.genruntimeconfig.cache

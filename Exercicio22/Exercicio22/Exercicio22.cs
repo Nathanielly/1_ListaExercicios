@@ -10,47 +10,51 @@ namespace Exercicio22
     {
         public void Produtos()
         {
-            decimal valorCusto = 0, valorVenda = 0;
+            decimal valorCusto = 0, valorVenda = 0, somaCusto =0, totalCusto = 0, somaVenda = 0, totalVenda = 0, somaCustoTotal =0, somaVendaTotal = 0;
 
-            var listaProdutos = new List<Entidades.Produto>();
+            
 
-            while (true)
+            for (int i = 0; i < 40; i ++)
             {
                 Console.WriteLine("Informe o preço de custo: ");
                 valorCusto = decimal.Parse(Console.ReadLine());
+                somaCusto += valorCusto;
+                totalCusto = totalCusto + 1;
 
                 Console.WriteLine("Informe o valor de venda: ");
                 valorVenda = Convert.ToDecimal(Console.ReadLine());
+                somaVenda += valorVenda;
+                totalVenda = totalVenda + 1;
 
-                var produto = new Entidades.Produto();
-                produto.precoCusto = valorCusto;
-                produto.precoVenda = valorVenda;
-
-                listaProdutos.Add(produto);
 
                 if (valorCusto < valorVenda)
                 {
-                    Console.WriteLine("Venda com lucro.");
+                    Console.WriteLine("Venda com lucro.\n");
 
                 }
                 else if (valorCusto == valorVenda)
                 {
-                    Console.WriteLine("Não houve lucro e nem prejuízo.");
+                    Console.WriteLine("Não houve lucro e nem prejuízo.\n");
 
                 }
                 else if (valorCusto > valorVenda)
                 {
-                    Console.WriteLine("Venda com prejuízo.");
+                    Console.WriteLine("Venda com prejuízo.\n");
 
                 }
 
                 
 
-
             }
+            
 
+            somaCustoTotal = somaCusto / totalCusto;
+            somaVendaTotal = somaVenda / totalVenda;
 
-           
+            Console.WriteLine("\nA média do preço de custo é R$ " + somaCustoTotal);
+            Console.WriteLine("\nA média do preço de venda é R$ " + somaVendaTotal);
+
+            
 
         }
 

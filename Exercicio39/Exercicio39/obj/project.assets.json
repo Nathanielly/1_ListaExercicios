@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nathanielly\\Desktop\\Rumo Academy\\C#\\Exercicio39\\Exercicio39\\Exercicio39.csproj",
+      "projectUniqueName": "C:\\Users\\Nathanielly\\Desktop\\Rumo Academy\\C#\\01_Lista de exercicios\\Exercicio39\\Exercicio39\\Exercicio39.csproj",
       "projectName": "Exercicio39",
-      "projectPath": "C:\\Users\\Nathanielly\\Desktop\\Rumo Academy\\C#\\Exercicio39\\Exercicio39\\Exercicio39.csproj",
+      "projectPath": "C:\\Users\\Nathanielly\\Desktop\\Rumo Academy\\C#\\01_Lista de exercicios\\Exercicio39\\Exercicio39\\Exercicio39.csproj",
       "packagesPath": "C:\\Users\\Nathanielly\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nathanielly\\Desktop\\Rumo Academy\\C#\\Exercicio39\\Exercicio39\\obj\\",
+      "outputPath": "C:\\Users\\Nathanielly\\Desktop\\Rumo Academy\\C#\\01_Lista de exercicios\\Exercicio39\\Exercicio39\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nathanielly\\AppData\\Roaming\\NuGet\\NuGet.Config",
